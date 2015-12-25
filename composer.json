@@ -23,7 +23,7 @@
         "react/promise": "For converting promises to and from observables."
     },
     "autoload": {
-        "psr-0": { "Rx\\": "lib/" }
+        "psr-0": { "Rx\\": "lib/Rx" }
     },
     "extra": {
         "branch-alias": {
